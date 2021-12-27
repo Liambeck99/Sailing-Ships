@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85fd0b3b5392e9d4e97f5139548217eb, type: 3}
+  m_Name: Steered Cohesion Behaviour
+  m_EditorClassIdentifier: 
+  filter: {fileID: 11400000, guid: d08a324006914a8478799c3c1e7f224b, type: 2}
+  agentSmoothTime: 0.5
